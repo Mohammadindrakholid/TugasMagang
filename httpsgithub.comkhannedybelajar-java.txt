@@ -1,1 +1,0 @@
-https://github.com/khannedy/belajar-javascript-async/blob/master/code/before/ajax.html
